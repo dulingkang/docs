@@ -1,7 +1,5 @@
 # BreathAI Privacy Policy
 
-**Last updated:** 2025
-
 BreathAI ("we," "our," or "the app") respects your privacy. This policy describes what data we collect, how we use it, and your rights.
 
 ---
