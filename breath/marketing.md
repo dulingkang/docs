@@ -18,7 +18,7 @@ BreathAI helps you improve physical and mental wellness through guided breathing
 
 ## Get the App
 
-[Download on the App Store](https://apps.apple.com/) *(Add your App Store link after release)*
+[Download on the App Store](https://apps.apple.com/app/id6755961890) **
 
 ---
 
@@ -30,4 +30,4 @@ BreathAI helps you improve physical and mental wellness through guided breathing
 
 ---
 
-© 2025 BreathAI
+© 2026 BreathAI Shawn.Du
