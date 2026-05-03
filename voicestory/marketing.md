@@ -7,7 +7,7 @@
 ## Links
 
 - [Support & FAQ](support)
-- [Privacy Policy](privacy)
+- [Privacy Policy](privacy) · [Privacy (English)](privacy-en)
 - [Terms of Service (Apple Standard EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ---

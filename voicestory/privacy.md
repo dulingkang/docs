@@ -1,5 +1,7 @@
 # VoiceStory Privacy Policy
 
+[English](privacy-en)
+
 VoiceStory（“我们”/“本应用”）尊重并保护用户隐私。本政策说明我们会收集哪些数据、如何使用、以及你的权利。
 
 ---
